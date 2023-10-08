@@ -1,9 +1,9 @@
 main:
 
   - title: "EmotionKD: A Cross-modal Knowledge Distillation Framework for Emotion Recognition Based on Physiological Signals"
-    authors: Yucheng Liu, Ziyu Jia*, <strong>Haichao Wang<\strong> (*Corresponding Author)
+    authors: Yucheng Liu, Ziyu Jia*, Haichao Wang(*Corresponding Author)
     conference_short: ACMMM
-    conference: ACM Multimedia <strong>(ACMMM)</strong>, 2023.
+    conference: ACM Multimedia (ACMMM) , 2023.
     pdf: 
     code: 
     bibtex: 
@@ -11,9 +11,9 @@ main:
     notes: Accept
 
   - title: "Teacher Assistant-Based Knowledge Distillation Extracting Multi-level Features on Single Channel Sleep EEG"
-    authors: Heng Liang, Yucheng Liu, <strong>Haichao Wang<\strong> (Co-first Author), Ziyu Jia* (*Corresponding Author)
+    authors: Heng Liang, Yucheng Liu, Haichao Wang (Co-first Author), Ziyu Jia* (*Corresponding Author)
     conference_short: IJCAI
-    conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2023.
+    conference: International Joint Conference on Artificial Intelligence (IJCAI), 2023.
     pdf: https://www.ijcai.org/proceedings/2023/0439.pdf
     code: https://github.com/HychaoWang/SleepKD
     page: https://hychaowang.github.io/SleepKD/
