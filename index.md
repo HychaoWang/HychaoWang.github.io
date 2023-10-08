@@ -19,5 +19,3 @@ I am a master candidate at Institute of Data and Information, <a href="https://w
 - **[Apr. 2023]** Our paper 'Teacher Assistant-Based Knowledge Distillation Extracting Multi-level Features on Single Channel Sleep EEG' is accepted by IJCAI 2023.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
