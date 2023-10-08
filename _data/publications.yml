@@ -7,7 +7,7 @@ main:
     pdf: 
     code: 
     bibtex: 
-    image: 
+    image: ./assets/img/emotionkd.png
     notes: Accept
 
   - title: "Teacher Assistant-Based Knowledge Distillation Extracting Multi-level Features on Single Channel Sleep EEG"
