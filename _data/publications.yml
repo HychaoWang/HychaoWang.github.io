@@ -1,6 +1,6 @@
 main:
 
-  - title: EmotionKD: A Cross-modal Knowledge Distillation Framework for Emotion Recognition Based on Physiological Signals
+  - title: "EmotionKD: A Cross-modal Knowledge Distillation Framework for Emotion Recognition Based on Physiological Signals"
     authors: Yucheng Liu, Ziyu Jia*, Haichao Wang (*Corresponding authors)
     conference_short: ACMMM
     conference: ACM Multimedia <strong>(ACMMM)</strong>, 2023.
