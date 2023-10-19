@@ -6,6 +6,8 @@ layout: homepage
 
 I am a master student at Institute of Data and Information, <a href="https://www.sigs.tsinghua.edu.cn/main.htm">SIGS</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. Here, I am lucky to be advised by Prof. Yuxing Han.
 
+I am also a member of <a href="ai4brain.github.io">AI4Brain</a>
+
 ## Education
 - **Beijing Jiaotong University** 2019-2023 Computer Science and Technolgy
 - **Tsinghua University** 2023-2026(expected) Data Science and Technology (Shenzhen)
