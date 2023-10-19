@@ -12,7 +12,7 @@ I am a master student at Institute of Data and Information, <a href="https://www
 
 ## Research Interests
 
-- **Computer Vision:** low-light enhancement
+- **Computer Vision:** video coding, low-light enhancement
 - **Machine Learning:** time series, knowledge distillation
 
 ## News
