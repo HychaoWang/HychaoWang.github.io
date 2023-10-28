@@ -9,6 +9,7 @@ main:
     bibtex: 
     image: ./assets/img/emotionkd.png
     notes: Accept
+    page: https://yuchengliu-alex.github.io/EmotionKD/
 
   - title: "Teacher Assistant-Based Knowledge Distillation Extracting Multi-level Features on Single Channel Sleep EEG"
     authors: Heng Liang, Yucheng Liu, Haichao Wang (Co-first Author), Ziyu Jia* (*Corresponding Author)
