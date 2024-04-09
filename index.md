@@ -6,17 +6,18 @@ layout: homepage
 
 I am a master student at Institute of Data and Information, <a href="https://www.sigs.tsinghua.edu.cn/main.htm">SIGS</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. Here, I am lucky to be advised by Prof. Yuxing Han.
 
-I am also a member of <a href="https://ai4brain.github.io">AI4Brain</a>
+I also conducted researches about physiological signal processing during my undergraduate period, advising by Dr. Ziyu Jia.
 
 ## Education
 - **Beijing Jiaotong University** 2019-2023 Computer Science and Technolgy
-- **Tsinghua University** 2023-2026(expected) Data Science and Technology (Shenzhen)
+- **Tsinghua University (Shenzhen)** 2023-2026(expected) Data Science and Technology
 
 ## Research Interests
 
-- **Computer Vision:** video coding, low-light enhancement
+- **Computer Vision:** computational video
 - **Machine Learning:** time series, knowledge distillation
-
+- **Artificial Intelligence** physiological signal processing, brain-computer interface
+  
 ## News
 
 - **[Sep. 2023]** Start the first term as a graduate student in SIGS.
