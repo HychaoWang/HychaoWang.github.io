@@ -1,14 +1,35 @@
 main:
+  - title: "DistillSleepNet: Heterogeneous Multi-Level Knowledge Distillation via Teacher Assistant for Sleep Staging"
+    authors: Ziyu Jia, Heng Liang, Yucheng Liu, Haichao Wang, Tianzi Jiang(Corresponding Author)
+    conference_short: IEEE TBD
+    conference: IEEE Transactions on Big Data, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10663937/
+    code: 
+    bibtex: 
+    image: 
+    notes: Online
+    page: 
+    
+  - title: "Mutual Distillation Extracting Spatial-temporal Knowledge for Lightweight Multi-channel Sleep Stage Classification"
+    authors: Ziyu Jia, Haichao Wang(Corresponding Author), Yucheng Liu, Tianzi Jiang
+    conference_short: SIGKDD
+    conference: Knowledge Discovery and Data Mining (SIGKDD), 2024.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3637528.3671981
+    code: 
+    bibtex: 
+    image: 
+    notes: Oral Presentation
+    page: 
 
   - title: "EmotionKD: A Cross-modal Knowledge Distillation Framework for Emotion Recognition Based on Physiological Signals"
-    authors: Yucheng Liu, Ziyu Jia*, Haichao Wang(*Corresponding Author)
+    authors: Yucheng Liu, Ziyu Jia(Corresponding Author), Haichao Wang
     conference_short: ACMMM
     conference: ACM Multimedia (ACMMM), 2023.
     pdf: https://doi.acm.org/?doi=3581783.3612277
     code: https://github.com/YuchengLiu-Alex/EmotionKD
     bibtex: 
     image: ./assets/img/emotionkd.png
-    notes: Accept
+    notes: Oral Presentation
     page: https://yuchengliu-alex.github.io/EmotionKD/
 
   - title: "Teacher Assistant-Based Knowledge Distillation Extracting Multi-level Features on Single Channel Sleep EEG"
