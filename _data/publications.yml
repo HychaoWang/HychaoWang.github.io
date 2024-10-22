@@ -6,7 +6,7 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/10663937/
     code: 
     bibtex: 
-    image: 
+    image: ./assets/img/distillsleepnet.png
     notes: Online
     page: 
     
@@ -17,7 +17,7 @@ main:
     pdf: https://dl.acm.org/doi/abs/10.1145/3637528.3671981
     code: 
     bibtex: 
-    image: 
+    image: ./assets/img/stmd.png
     notes: Oral Presentation
     page: 
 
